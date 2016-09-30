@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/leave_feedback"
+        android:id="@+id/buttonFeedback"
+        android:theme="@style/BlueButton" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/google_play"
+        android:gravity="center_horizontal"
+        android:paddingBottom="15dp"
+        android:labelFor="@id/buttonFeedback" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/email_developer"
+        android:id="@+id/buttonEmail"
+        android:theme="@style/BlueButton" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/email"
+        android:gravity="center_horizontal"
+        android:paddingBottom="15dp"
+        android:labelFor="@id/buttonEmail" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/restore_purchase"
+        android:id="@+id/buttonRestore"
+        android:theme="@style/BlueButton" />
+
+</LinearLayout>

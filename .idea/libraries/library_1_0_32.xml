@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.0.32">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.anjlab.android.iab.v3/library/1.0.32/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.anjlab.android.iab.v3/library/1.0.32/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.anjlab.android.iab.v3/library/1.0.32/c1d08cca7945b05289861a947a152eefe88fe27/library-1.0.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

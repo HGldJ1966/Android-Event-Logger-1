@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Event Logger</string>
+
+    <string name="other">Other</string>
+    <string name="about">About</string>
+    <string name="profiles">Profiles</string>
+
+    <string name="quantity">Quantity</string>
+    <string name="header">Header</string>
+    <string name="events">Events</string>
+    <string name="logs">Logs</string>
+    <string name="results">Results</string>
+    <string name="note">Note</string>
+    <string name="startDate">Date</string>
+    <string name="time">Time</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="interval">Interval</string>
+    <string name="continuity">Continuity</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="change">Change</string>
+    <string name="delete">Delete</string>
+    <string name="start_of_event">Start of event</string>
+    <string name="end_of_event">End of event</string>
+    <string name="select_the_period">Select the period</string>
+    <string name="for_all_time">For all time</string>
+    <string name="for_week">For week</string>
+    <string name="for_day">For day</string>
+    <string name="for_hour">For hour</string>
+    <string name="for_24_hours">For 24 hours</string>
+    <string name="for_7_days">For 7 days</string>
+    <string name="h">" h. "</string>
+    <string name="m">" m. "</string>
+    <string name="s">" s."</string>
+    <string name="rename_profile">Rename profile</string>
+    <string name="delete_profile">Delete profile</string>
+    <string name="add_event">Add event</string>
+    <string name="add_profile">Add profile</string>
+    <string name="rename">Rename</string>
+    <string name="input_new_name">Input new name</string>
+    <string name="name_is_busy">Name is busy</string>
+    <string name="name_empty">Name must not be empty</string>
+    <string name="event">Event</string>
+    <string name="add">Add</string>
+    <string name="rename_event">Rename event</string>
+    <string name="delete_event">Delete event</string>
+    <string name="baby">Baby</string>
+    <string name="event_type">Select the type of event</string>
+    <string name="instant">Instant</string>
+    <string name="dipole">Dipole</string>
+    <string name="an_interval">An interval</string>
+    <string name="input_name">Enter the name</string>
+    <string name="input_alternative_name">Enter the alternative name</string>
+    <string name="about_message">\tThis application was created for my wife after the birth of our daughter, as there is a need to keep records of certain events.\n\n\tI sincerely hope that you will be able to use and a pleasure to use this application.</string>
+    <string name="buy">Buy</string>
+    <string name="activation_message">The free version of the application available one profile and is available up to 5 events.\n\nTo add new profiles and events you need to buy.</string>
+    <string name="activation_title">Functionality is limited</string>
+    <string name="dream">Dream</string>
+    <string name="wake">Wake</string>
+    <string name="feeding">Feeding</string>
+    <string name="pu_pu">Pu-pu</string>
+    <string name="pi_pi">Pi-pi</string>
+    <string name="walking">Walking</string>
+    <string name="error">Error</string>
+    <string name="leave_feedback">Leave feedback</string>
+    <string name="email_developer">Email developer</string>
+    <string name="restore_purchase">Restore purchase</string>
+    <string name="successfully_restored">Successfully, the app activated</string>
+    <string name="fails_restored">You did not make purchases</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="google_play" translatable="false">Google Play</string>
+    <string name="email" translatable="false">arkada38@gmail.com</string>
+    <string name="gp_error">Google Play service is not available</string>
+    <string name="successfully_purchased">Thank you</string>
+</resources>
